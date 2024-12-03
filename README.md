@@ -18,7 +18,7 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
 1. **Clone the repository or download the script**:
    ```bash
-   git clone https://github.com/Zlkcyber/aigaea-network-bot.git && cd aigaea-network-bot
+   git clone https://github.com/Rambeboy/aigaea-network-bot.git && cd aigaea-network-bot
    ```
 
 2. **Install dependencies**:
