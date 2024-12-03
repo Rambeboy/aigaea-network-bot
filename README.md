@@ -1,13 +1,12 @@
 ## AIGAEA NETWORK BOT
 
 **AIGEA BOT USING PROXY**
-https://app.aigaea.net
 
 ![banner](assets/image2.png)
 
-### Proxy Manager with Aigaea
-
 This is a proxy manager script that interacts with Aigaea's API, allowing you to authenticate with proxies, track scores, and manage browser sessions. The script fetches proxy lists and pings them periodically while managing authentication sessions.
+
+- [Register Here](https://app.aigaea.net)
 
 ## Prerequisite
 
