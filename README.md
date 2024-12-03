@@ -6,7 +6,7 @@
 
 This is a proxy manager script that interacts with Aigaea's API, allowing you to authenticate with proxies, track scores, and manage browser sessions. The script fetches proxy lists and pings them periodically while managing authentication sessions.
 
-- [Register Here](https://app.aigaea.net)
+- [Register Here](https://app.aigaea.net/register?ref=gauvzAZi8GQyog)
 
 ## Prerequisite
 
@@ -47,10 +47,12 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
 
 ## Access Token and first 8 browserID
 
-- You can obtain your token and browser id from the [Aigaea Dashboard](https://app.aigaea.net).
+- You can obtain your token and browser id from the [Aigaea Dashboard](https://app.aigaea.net/register?ref=gauvzAZi8GQyog).
+
   ![gaea-token](assets/image-1.png)
 
 - Copy your first 8 browser id
+
   ![image](https://github.com/user-attachments/assets/15f23b20-951a-4963-91f3-2277b9db1b26)
 
 
