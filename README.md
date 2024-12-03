@@ -3,7 +3,7 @@
 **AIGEA BOT USING PROXY**
 https://app.aigaea.net
 
-![banner](assets/image.png)
+![banner](assets/image (1) .png)
 
 ### Proxy Manager with Aigaea
 
