@@ -29,9 +29,14 @@ This is a proxy manager script that interacts with Aigaea's API, allowing you to
    npm install
    ```
 
+3. **Configure your accounts**
+   ```bash
+   cp config/proxy_list_tmp.js proxy_list.js
+   ```
+
    The necessary packages will be listed in `package.json`.
 
-3. **Create the `proxy_list.js` file**:
+4. **Create the `proxy_list.js` file**:
 
    ```bash
    nano proxy_list.js
